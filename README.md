@@ -1,3 +1,15 @@
+# WONE Lytis FC
+
+**WONE Lytis FC** is Waddaya's fork of [yaai_fc - ABAP AI tools Function Calling Library](https://github.com/christianjianelli/yaai_fc) by Christian Jianelli. It provides the ABAP development tools for [WONE Lytis](https://github.com/Waddaya-Repo/wone-lytis), the in-SAP agent engine of WONE Resolve (WONE / Waddaya One product family).
+
+- Upstream: https://github.com/christianjianelli/yaai_fc
+- License: MIT. See [LICENSE](./LICENSE). The original copyright notice is kept; all credit for the original library goes to Christian Jianelli.
+- ABAP objects keep their upstream names so upstream changes can still be merged.
+
+The original upstream README follows.
+
+---
+
 [![License](https://img.shields.io/github/license/christianjianelli/yaai_fc)](https://github.com/christianjianelli/yaai_fc/blob/main/LICENSE)
 
 # ABAP AI tools - Function Calling Library
